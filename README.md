@@ -6,8 +6,8 @@
 
 3-Go in the project folder.
 
-4-npm install.
+4-npm install
 
-5-npm start.
+5-npm start
 
 This simulation is in french and will not stop
