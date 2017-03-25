@@ -78,5 +78,3 @@ setInterval(function() {
         console.log("-----------------------------------------------LE JOUR SE LEVE----------------------------------");
     }
 },6000);
-//comment
-module.exports = {night};
