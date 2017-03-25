@@ -66,8 +66,7 @@ setInterval(function() {
 },2000);
 //-----------------------------------Cycle Jour/Nuit--------------------------------------------
 /* Survient tous les 6 tours du cycle Deadpool et intervertit le jour et la nuit qui influent sur la recuperation
-   et perte d'energie
-*/
+   et perte d'energie*/
 setInterval(function() {
     image_night=night;
     if (image_night == false){

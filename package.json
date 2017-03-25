@@ -12,6 +12,24 @@
   },
   "author": "",
   "license": "ISC",
+  "xo" : {
+    "esnext" : true,
+    "envs": [
+      "node",
+      "mocha"
+    ],
+    "space" : 2,
+    "rules" : {
+      "max-len": [
+        "error",
+        80,
+        2
+      ]
+    },
+    "ignores": [
+      "Gruntfile.js"
+    ]
+  },
   "bugs": {
     "url": "https://github.com/arno-haddad/TP-JS/issues"
   },
